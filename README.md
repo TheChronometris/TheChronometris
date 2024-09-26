@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheChronometris
 - 👀 I’m interested in Game Dvelopement, Music, Software Developement/Engineering, A.I., Machine Learning
-- 🌱 I’m currently learning Python, also utilizing resources from FreeCodeCamp and The Odin Project
+- 🌱 I’m currently learning Django, C++
 - 💞️ I’m looking to collaborate on any beginner projects to learn more.
 - 📫 How to reach me bstaton1994@gmail.com
 

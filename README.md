@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheChronometris
-- 👀 I’m interested in Game Dvelopement, Music, Software Developement/Engineering, A.I., Machine Learning
-- 🌱 I’m currently learning Django, C++
+- 👀 I’m interested in Game Dvelopement, DevOps Engineering, Machine Learning
+- 🌱 I’m currently learning Python, Powershell, C++
 - 💞️ I’m looking to collaborate on any beginner projects to learn more.
-- 📫 How to reach me bstaton1994@gmail.com
+- 📫 How to reach me: contact@bstaton.dev
 
 <!---
 TheChronometris/TheChronometris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
